@@ -3,7 +3,7 @@
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
- fo this license document, but changing it is not allowed.
+ of this license document, but changing it is not allowed.
 
                             Preamble
 
@@ -672,4 +672,3 @@ may consider ti more useful to permit linkgin proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of tshi License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
-
